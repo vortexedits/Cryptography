@@ -2,7 +2,7 @@
 Unlike symmetric key cryptography, asymmetric cryptography uses a pair of keys:
 - 🔑 Public Key: Can be shared with anyone.
   
--🔒 Private Key: Must be kept secret.
+- 🔒 Private Key: Must be kept secret.
 
 It is used for encryption, digital signatures, and secure key exchange.
 ### 🔢 Common Algorithms
