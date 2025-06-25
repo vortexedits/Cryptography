@@ -24,10 +24,10 @@ Stream ciphers encrypt data one bit or byte at a time, often used in real-time a
 ### ✅ Task 1: Use gpg for Symmetric Encryption
 ```bash
 # Encrypt using gpg (will prompt for passphrase)
-gpg -c secret.txt
+gpg -c filename.txt
 
 # Decrypt
-gpg secret.txt.gpg
+gpg filename.txt.gpg
 ```
 ### ✅ Task 2: Encrypt and Decrypt a File Using AES-256-CBC (with openssl)
 ```bash
