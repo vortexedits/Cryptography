@@ -1,4 +1,4 @@
-# 🔐 Introduction to Cryptography
+#  Introduction to Cryptography
 Cryptography is the science and art of securing information. 
 
 It ensures that data remains confidential, authentic, and unaltered when stored or transmitted over insecure channels (like the internet).
